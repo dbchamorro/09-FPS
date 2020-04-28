@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lanternCandle.obj-a57fd3f6b7616bc7761830f90c5a539d.mesh"
+
+[deps]
+
+files=[ "res://.import/lanternCandle.obj-a57fd3f6b7616bc7761830f90c5a539d.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/lanternCandle.obj"
+dest_files=[ "res://.import/lanternCandle.obj-a57fd3f6b7616bc7761830f90c5a539d.mesh", "res://.import/lanternCandle.obj-a57fd3f6b7616bc7761830f90c5a539d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

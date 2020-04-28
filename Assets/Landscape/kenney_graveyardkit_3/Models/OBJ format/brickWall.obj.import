@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/brickWall.obj-8ce6514a06960ca3b3cd495af5395a70.mesh"
+
+[deps]
+
+files=[ "res://.import/brickWall.obj-8ce6514a06960ca3b3cd495af5395a70.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/brickWall.obj"
+dest_files=[ "res://.import/brickWall.obj-8ce6514a06960ca3b3cd495af5395a70.mesh", "res://.import/brickWall.obj-8ce6514a06960ca3b3cd495af5395a70.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

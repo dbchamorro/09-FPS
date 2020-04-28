@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stoneWall.obj-cc73add93f840202163ca5f4f65e75de.mesh"
+
+[deps]
+
+files=[ "res://.import/stoneWall.obj-cc73add93f840202163ca5f4f65e75de.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/stoneWall.obj"
+dest_files=[ "res://.import/stoneWall.obj-cc73add93f840202163ca5f4f65e75de.mesh", "res://.import/stoneWall.obj-cc73add93f840202163ca5f4f65e75de.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

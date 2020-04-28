@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ammo_shotgun.obj-eb7cad6c9b24378544e9b8dbb43eefa0.mesh"
+
+[deps]
+
+files=[ "res://.import/ammo_shotgun.obj-eb7cad6c9b24378544e9b8dbb43eefa0.mesh" ]
+
+source_file="res://Assets/Weapons/weaponpack_assets/Models/ammo_shotgun.obj"
+dest_files=[ "res://.import/ammo_shotgun.obj-eb7cad6c9b24378544e9b8dbb43eefa0.mesh", "res://.import/ammo_shotgun.obj-eb7cad6c9b24378544e9b8dbb43eefa0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

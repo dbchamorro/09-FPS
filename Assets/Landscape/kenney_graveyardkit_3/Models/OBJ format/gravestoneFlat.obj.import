@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gravestoneFlat.obj-90432ca04ce7ba4a53652ea3822c8511.mesh"
+
+[deps]
+
+files=[ "res://.import/gravestoneFlat.obj-90432ca04ce7ba4a53652ea3822c8511.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/gravestoneFlat.obj"
+dest_files=[ "res://.import/gravestoneFlat.obj-90432ca04ce7ba4a53652ea3822c8511.mesh", "res://.import/gravestoneFlat.obj-90432ca04ce7ba4a53652ea3822c8511.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

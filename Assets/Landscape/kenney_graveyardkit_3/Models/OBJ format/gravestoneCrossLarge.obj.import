@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gravestoneCrossLarge.obj-d3ecf1bff4bee755cce670d60babe8a9.mesh"
+
+[deps]
+
+files=[ "res://.import/gravestoneCrossLarge.obj-d3ecf1bff4bee755cce670d60babe8a9.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/gravestoneCrossLarge.obj"
+dest_files=[ "res://.import/gravestoneCrossLarge.obj-d3ecf1bff4bee755cce670d60babe8a9.mesh", "res://.import/gravestoneCrossLarge.obj-d3ecf1bff4bee755cce670d60babe8a9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

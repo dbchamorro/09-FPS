@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pumpkinCarved.obj-3e4b6aa60705d8672fcb30bf08015d8e.mesh"
+
+[deps]
+
+files=[ "res://.import/pumpkinCarved.obj-3e4b6aa60705d8672fcb30bf08015d8e.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/pumpkinCarved.obj"
+dest_files=[ "res://.import/pumpkinCarved.obj-3e4b6aa60705d8672fcb30bf08015d8e.mesh", "res://.import/pumpkinCarved.obj-3e4b6aa60705d8672fcb30bf08015d8e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

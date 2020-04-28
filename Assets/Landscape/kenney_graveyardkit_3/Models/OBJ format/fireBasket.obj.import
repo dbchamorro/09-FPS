@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fireBasket.obj-613d2a39fea53659eefbb78796bd8d60.mesh"
+
+[deps]
+
+files=[ "res://.import/fireBasket.obj-613d2a39fea53659eefbb78796bd8d60.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/fireBasket.obj"
+dest_files=[ "res://.import/fireBasket.obj-613d2a39fea53659eefbb78796bd8d60.mesh", "res://.import/fireBasket.obj-613d2a39fea53659eefbb78796bd8d60.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

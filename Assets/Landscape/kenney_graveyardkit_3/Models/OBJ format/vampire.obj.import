@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/vampire.obj-7b076c3245e288ab675646d79f062d02.mesh"
+
+[deps]
+
+files=[ "res://.import/vampire.obj-7b076c3245e288ab675646d79f062d02.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/vampire.obj"
+dest_files=[ "res://.import/vampire.obj-7b076c3245e288ab675646d79f062d02.mesh", "res://.import/vampire.obj-7b076c3245e288ab675646d79f062d02.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

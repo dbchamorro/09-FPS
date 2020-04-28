@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ironFenceBorderColumn.obj-9949a0b0821c5de29bb5a30c9fb3cd8c.mesh"
+
+[deps]
+
+files=[ "res://.import/ironFenceBorderColumn.obj-9949a0b0821c5de29bb5a30c9fb3cd8c.mesh" ]
+
+source_file="res://Assets/Landscape/kenney_graveyardkit_3/Models/OBJ format/ironFenceBorderColumn.obj"
+dest_files=[ "res://.import/ironFenceBorderColumn.obj-9949a0b0821c5de29bb5a30c9fb3cd8c.mesh", "res://.import/ironFenceBorderColumn.obj-9949a0b0821c5de29bb5a30c9fb3cd8c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
